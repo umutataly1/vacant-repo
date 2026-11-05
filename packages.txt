@@ -1,1 +1,2 @@
 vhello 1.1 https://github.com/umutataly1/vacant-repo/releases/download/releases/vhello-1.1.tar.gz
+tiny-vim 1.0 https://github.com/umutataly1/vacant-repo/releases/download/releases/tiny-vim-1.0.tar.gz
